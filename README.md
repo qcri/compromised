@@ -1,5 +1,11 @@
 # Compromised vs. Attack Domains
 
+This is the code repository for the USENIX Security 2021 paper "Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs". 
+
+The repository contains two key classifiers we build.
+* Public-Private Classifier
+* Compromised-Attacker Owned Classifier
+
 ```
 @inproceedings {desilva21,
   title = {Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs},
