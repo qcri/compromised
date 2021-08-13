@@ -2,6 +2,10 @@
 
 This is the code repository for the USENIX Security 2021 paper "Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs". 
 
+The key problem we solve in this work is that given a malicious URL:
+* Can we identify if it is hosted on a public or private apex?
+* Can we identify if it is a compromised website or an attacker owned website?
+
 The repository contains two key classifiers we build.
 * Public-Private Classifier
 * Compromised-Attacker Owned Classifier
